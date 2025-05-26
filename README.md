@@ -1,7 +1,5 @@
 <h1> Hola! Soy Bruno.</h1>
 
-## 👋 ¡Hola! Soy [Tu Nombre]
-
 Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **Científico de Datos Junior** con una sólida base en análisis de datos, estadística y *machine learning*. Mi formación académica me ha permitido desarrollar habilidades prácticas en la resolución de problemas reales a partir de datos.
 
 ---
