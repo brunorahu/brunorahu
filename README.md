@@ -1,7 +1,48 @@
-<h1> Hola! Es bueno tenerte por acá.</h1>
+<h1> Hola! Soy Bruno.</h1>
+
+## 👋 ¡Hola! Soy [Tu Nombre]
+
+Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **Científico de Datos Junior** con una sólida base en análisis de datos, estadística y *machine learning*. Mi formación académica me ha permitido desarrollar habilidades prácticas en la resolución de problemas reales a partir de datos.
+
+---
+
+### 🚀 ¿Qué sé hacer?
+
+- 🔍 **Análisis exploratorio de datos (EDA)** con Python, pandas y matplotlib.
+- 📊 **Modelado predictivo** usando algoritmos de clasificación y regresión (scikit-learn).
+- 🧠 **Redes neuronales** para tareas de visión por computadora, con experiencia usando modelos preentrenados como MobileNetV2 y ResNet50.
+- 🛠️ Preprocesamiento de datos, ingeniería de características y evaluación de modelos con métricas como F1-score, MAE, RMSE y AUC-ROC.
+- 📈 Uso de técnicas de validación cruzada y optimización de hiperparámetros.
+- 🧪 Implementación de pruebas A/B, modelos estadísticos y modelos desde cero.
+- 📚 Siempre aprendiendo nuevas herramientas: actualmente explorando NLP y aprendizaje profundo.
+
+---
+
+### 📁 Algunos de mis proyectos destacados:
+
+- **Predicción de abandono de clientes bancarios (Beta Bank)**  
+  Construí modelos de clasificación (árboles de decisión, regresión logística y random forest) para anticipar qué clientes podrían dejar el banco, priorizando la métrica F1 para casos desbalanceados.
+
+- **Reconocimiento de lenguaje de señas ASL con CNNs**  
+  Usando MobileNetV2 y técnicas de aumento de datos, desarrollé un modelo de visión por computadora capaz de identificar el alfabeto del lenguaje de señas americano en tiempo real.
+
+- **Selección de pozos petroleros óptimos (OilyGiant)**  
+  Implementé un modelo de regresión lineal para predecir reservas de petróleo, analicé riesgos y utilidades, y seleccioné las mejores ubicaciones para abrir nuevos pozos.
+
+---
+
+### ⚙️ Tecnologías que uso frecuentemente:
+
+`Python` • `pandas` • `scikit-learn` • `NumPy` • `Matplotlib` • `Seaborn`  
+`TensorFlow / Keras` • `SymPy` • `Jupyter Notebooks` • `Git & GitHub`  
+
+---
+
+📬 Si te interesa colaborar, ¡me encantaría conectar!  
+🔗 **[Tu LinkedIn aquí]** | ✉️ **[Tu correo aquí]**
 
 
-<p>Bienvenido a mi página! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Bienvenido a mi página! </br>  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
