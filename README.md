@@ -4,15 +4,20 @@ Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **C
 
 ---
 
-### 🚀 ¿Qué sé hacer?
+# 🚀 ¿Qué sé hacer?
 
-- 🔍 **Análisis exploratorio de datos (EDA)** con Python, pandas y matplotlib.
-- 📊 **Modelado predictivo** usando algoritmos de clasificación y regresión (scikit-learn).
-- 🧠 **Redes neuronales** para tareas de visión por computadora, con experiencia usando modelos preentrenados como MobileNetV2 y ResNet50.
-- 🛠️ Preprocesamiento de datos, ingeniería de características y evaluación de modelos con métricas como F1-score, MAE, RMSE y AUC-ROC.
-- 📈 Uso de técnicas de validación cruzada y optimización de hiperparámetros.
-- 🧪 Implementación de pruebas A/B, modelos estadísticos y modelos desde cero.
-- 📚 Siempre aprendiendo nuevas herramientas: actualmente explorando NLP y aprendizaje profundo.
+🔍 **Análisis exploratorio de datos (EDA)** utilizando librerías avanzadas como `Pandas`, `Seaborn` y `Matplotlib`, integrando técnicas como distribución conjunta y análisis de correlación.  
+📊 **Modelado predictivo avanzado** con algoritmos de clasificación, regresión, clustering y detección de anomalías (`scikit-learn`, `LightGBM`).  
+🧠 **Redes neuronales** para visión por computadora y procesamiento de texto, con experiencia en `Keras`, `TF-IDF`, embeddings y modelos preentrenados (`MobileNetV2`, `ResNet50`, `BERT`).  
+📈 **Series temporales**: análisis, creación de características, identificación de tendencias y estacionalidad, y pronósticos.  
+📂 **SQL avanzado** para la recopilación, almacenamiento y manipulación de datos en bases de datos relacionales, incluyendo la integración con Python (`PySpark`, `pymystem`).  
+🛠️ **Preprocesamiento exhaustivo**: tratamiento de datos faltantes y duplicados, creación de variables, y técnicas de codificación para features categóricas y numéricas.  
+📈 **Optimización de modelos**: validación cruzada, optimización de hiperparámetros y análisis de métricas avanzadas (`AUC-ROC`, `F1-score`, `MAE`, `RMSE`).  
+🧪 **Implementación de pruebas A/B** y bootstrap para validación de hipótesis y experimentos de negocio.  
+🧠 **Aprendizaje no supervisado**: clustering (`K-Means`, `DBSCAN`) y detección de anomalías para datos desbalanceados.  
+📚 **Métodos numéricos y álgebra lineal** aplicados a machine learning, incluyendo descenso de gradiente y operaciones matriciales.  
+🌐 **Análisis y visualización de datos** con herramientas como `Plotly`, además de integración en dashboards interactivos.  
+💡 **Experiencia práctica desarrollando proyectos integrados** en contexto empresarial, desde ventas hasta minería de datos.
 
 ---
 
@@ -31,10 +36,10 @@ Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **C
 
 ### ⚙️ Tecnologías que uso frecuentemente:
 
-`Python` • `pandas` • `scikit-learn` • `NumPy` • `Matplotlib` • `Seaborn`  
-`TensorFlow / Keras` • `SymPy` • `Jupyter Notebooks` • `Git & GitHub`  
+`Python` • `Jupyter Notebook` • `pandas` • `NumPy` • `scikit-learn` • `Matplotlib`  
+`Seaborn` • `SQL` • `LightGBM` • `XGBoost` • `Keras` • `PySpark`  
+`Plotly` • `nltk` • `pymystem` • `Git & GitHub` • `TensorFlow` • `TF-IDF` • `BERT`
 
----
 
 📬 Si te interesa colaborar, ¡me encantaría conectar!  
 🔗 **[LinkedIn](www.linkedin.com/in/bruno-ramos-huerta)** | ✉️ **brunoramhu@gmail.com**
