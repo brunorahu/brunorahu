@@ -6,18 +6,18 @@ Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **C
 
 ### 🚀 ¿Qué habilidades he adquirido?
 
-- 🔍 **Análisis exploratorio de datos (EDA)** 
-- 📊 **Modelado predictivo avanzado** 
-- 🧠 **Redes neuronales**
-- 📈 **Series temporales**  
-- 📂 **SQL avanzado**  
-- 🛠️ **Preprocesamiento exhaustivo**  
-- 📈 **Optimización de modelos**  
-- 🧪 **Implementación de pruebas A/B**  
-- 🧠 **Aprendizaje no supervisado**
-- 📚 **Métodos numéricos y álgebra lineal**  
-- 🌐 **Análisis y visualización de datos**  
-- 💡 **Experiencia práctica desarrollando proyectos integrados** en contexto empresarial, desde ventas hasta minería de datos.
+- 🔍 ***Análisis exploratorio de datos (EDA)*** 
+- 📊 ***Modelado predictivo avanzado*** 
+- 🧠 ***Redes neuronales***
+- 📈 ***Series temporales***  
+- 📂 ***SQL avanzado***  
+- 🛠️ ***Preprocesamiento exhaustivo***  
+- 📈 ***Optimización de modelos***
+- 🧪 ***Implementación de pruebas A/B***  
+- 🧠 ***Aprendizaje no supervisado***
+- 📚 ***Métodos numéricos y álgebra lineal***  
+- 🌐 ***Análisis y visualización de datos***
+- 💡 ***Experiencia práctica desarrollando proyectos integrados*** en contexto empresarial, desde ventas hasta minería de datos.
 
 ---
 
