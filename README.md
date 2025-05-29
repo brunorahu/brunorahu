@@ -16,7 +16,7 @@ Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **C
 
 ---
 
-### 📁 Algunos de mis proyectos destacados:
+### 📁 Algunos de mis proyectos técnicos destacados:
 
 - **Predicción de abandono de clientes bancarios (Beta Bank)**  
   Construí modelos de clasificación (árboles de decisión, regresión logística y random forest) para anticipar qué clientes podrían dejar el banco, priorizando la métrica F1 para casos desbalanceados.
