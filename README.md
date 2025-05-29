@@ -6,17 +6,17 @@ Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **C
 
 ### 🚀 ¿Qué habilidades he adquirido?
 
-- 🔍 **Análisis exploratorio de datos (EDA)** utilizando librerías avanzadas e integrando técnicas como distribución conjunta y análisis de correlación.  
-- 📊 **Modelado predictivo avanzado** con algoritmos de clasificación, regresión, clustering y detección de anomalías.  
-- 🧠 **Redes neuronales** para visión por computadora y procesamiento de texto
-- 📈 **Series temporales**: análisis, creación de características, pronósticos, identificación de tendencias y estacionalidad.  
-- 📂 **SQL avanzado** para la recopilación, almacenamiento y manipulación de datos en bases de datos relacionales.  
-- 🛠️ **Preprocesamiento exhaustivo**: tratamiento de datos faltantes y duplicados, creación de variables, y técnicas de codificación.  
-- 📈 **Optimización de modelos**: validación cruzada, optimización de hiperparámetros y análisis de métricas avanzadas (`AUC-ROC`, `F1-score`, `RMSE`).  
-- 🧪 **Implementación de pruebas A/B** y bootstrap para validación de hipótesis y experimentos de negocio.  
-- 🧠 **Aprendizaje no supervisado**: clustering (`K-Means`, `DBSCAN`) y detección de anomalías para datos desbalanceados.  
-- 📚 **Métodos numéricos y álgebra lineal** aplicados a machine learning, incluyendo descenso de gradiente y operaciones matriciales.  
-- 🌐 **Análisis y visualización de datos** con herramientas como `Plotly`, además de integración en dashboards interactivos.  
+- 🔍 **Análisis exploratorio de datos (EDA)** 
+- 📊 **Modelado predictivo avanzado** 
+- 🧠 **Redes neuronales**
+- 📈 **Series temporales**  
+- 📂 **SQL avanzado**  
+- 🛠️ **Preprocesamiento exhaustivo**  
+- 📈 **Optimización de modelos**  
+- 🧪 **Implementación de pruebas A/B**  
+- 🧠 **Aprendizaje no supervisado**
+- 📚 **Métodos numéricos y álgebra lineal**  
+- 🌐 **Análisis y visualización de datos**  
 - 💡 **Experiencia práctica desarrollando proyectos integrados** en contexto empresarial, desde ventas hasta minería de datos.
 
 ---
