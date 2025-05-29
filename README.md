@@ -4,15 +4,15 @@ Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **C
 
 ---
 
-### 🚀 ¿Qué sé hacer?
+### 🚀 ¿Qué habilidades he adquirido?
 
-- 🔍 **Análisis exploratorio de datos (EDA)** utilizando librerías avanzadas como `Pandas`, `Seaborn` y `Matplotlib`, integrando técnicas como distribución conjunta y análisis de correlación.  
-- 📊 **Modelado predictivo avanzado** con algoritmos de clasificación, regresión, clustering y detección de anomalías (`scikit-learn`, `LightGBM`).  
-- 🧠 **Redes neuronales** para visión por computadora y procesamiento de texto, con experiencia en `Keras`, `TF-IDF`, embeddings y modelos preentrenados (`MobileNetV2`, `ResNet50`, `BERT`).  
-- 📈 **Series temporales**: análisis, creación de características, identificación de tendencias y estacionalidad, y pronósticos.  
-- 📂 **SQL avanzado** para la recopilación, almacenamiento y manipulación de datos en bases de datos relacionales, incluyendo la integración con Python (`PySpark`, `pymystem`).  
-- 🛠️ **Preprocesamiento exhaustivo**: tratamiento de datos faltantes y duplicados, creación de variables, y técnicas de codificación para features categóricas y numéricas.  
-- 📈 **Optimización de modelos**: validación cruzada, optimización de hiperparámetros y análisis de métricas avanzadas (`AUC-ROC`, `F1-score`, `MAE`, `RMSE`).  
+- 🔍 **Análisis exploratorio de datos (EDA)** utilizando librerías avanzadas e integrando técnicas como distribución conjunta y análisis de correlación.  
+- 📊 **Modelado predictivo avanzado** con algoritmos de clasificación, regresión, clustering y detección de anomalías.  
+- 🧠 **Redes neuronales** para visión por computadora y procesamiento de texto
+- 📈 **Series temporales**: análisis, creación de características, pronósticos, identificación de tendencias y estacionalidad.  
+- 📂 **SQL avanzado** para la recopilación, almacenamiento y manipulación de datos en bases de datos relacionales.  
+- 🛠️ **Preprocesamiento exhaustivo**: tratamiento de datos faltantes y duplicados, creación de variables, y técnicas de codificación.  
+- 📈 **Optimización de modelos**: validación cruzada, optimización de hiperparámetros y análisis de métricas avanzadas (`AUC-ROC`, `F1-score`, `RMSE`).  
 - 🧪 **Implementación de pruebas A/B** y bootstrap para validación de hipótesis y experimentos de negocio.  
 - 🧠 **Aprendizaje no supervisado**: clustering (`K-Means`, `DBSCAN`) y detección de anomalías para datos desbalanceados.  
 - 📚 **Métodos numéricos y álgebra lineal** aplicados a machine learning, incluyendo descenso de gradiente y operaciones matriciales.  
