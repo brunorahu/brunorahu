@@ -8,13 +8,10 @@ Soy estudiante de la carrera de **Ingeniería en Inteligencia Artificial** y **C
 
 - 🔍 ***Análisis exploratorio de datos (EDA)*** 
 - 📊 ***Modelado predictivo avanzado*** 
-- 🧠 ***Redes neuronales***
+- 🧠 ***Machine Learning***
 - 📈 ***Series temporales***  
 - 📂 ***SQL avanzado***  
-- 🛠️ ***Preprocesamiento exhaustivo***  
-- 📈 ***Optimización de modelos***
 - 🧪 ***Implementación de pruebas A/B***  
-- 🧠 ***Aprendizaje no supervisado***
 - 📚 ***Métodos numéricos y álgebra lineal***  
 - 🌐 ***Análisis y visualización de datos***
 - 💡 ***Experiencia práctica desarrollando proyectos integrados*** en contexto empresarial, desde ventas hasta minería de datos.
